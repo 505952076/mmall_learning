@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb08a0e4-f41c-4f34-ada0-1c73be922f3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,8 +109,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1038" />
-    <option name="y" value="85" />
+    <option name="x" value="732" />
+    <option name="y" value="112" />
     <option name="width" value="1810" />
     <option name="height" value="960" />
   </component>
@@ -254,15 +254,15 @@
       <option name="presentableId" value="Default" />
       <updated>1579603404525</updated>
       <workItem from="1579603408472" duration="1783000" />
-      <workItem from="1579608758212" duration="45000" />
+      <workItem from="1579608758212" duration="406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1828000" />
+    <option name="totallyTimeSpent" value="2189000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="831" y="68" width="1448" height="768" extended-state="0" />
+    <frame x="586" y="90" width="1448" height="768" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27194244" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
