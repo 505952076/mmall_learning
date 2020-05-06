@@ -7,19 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb08a0e4-f41c-4f34-ada0-1c73be922f3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-datasource.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/datasource.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mmall.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/mmall_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/mmall_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/,gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mmall.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mmall.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +41,7 @@
     <session id="-305812141">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.15" value="3" />
@@ -92,7 +81,7 @@
         <counts>
           <entry key=",gitignore" value="274" />
           <entry key="md" value="14" />
-          <entry key="properties" value="153" />
+          <entry key="properties" value="155" />
           <entry key="xml" value="269" />
         </counts>
       </usages-collector>
@@ -100,7 +89,7 @@
         <counts>
           <entry key="Markdown" value="14" />
           <entry key="PLAIN_TEXT" value="274" />
-          <entry key="Properties" value="153" />
+          <entry key="Properties" value="155" />
           <entry key="SQL" value="1" />
           <entry key="XML" value="268" />
         </counts>
@@ -121,8 +110,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/mmall.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -208,10 +197,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="783" />
-    <option name="y" value="35" />
+    <option name="x" value="1077" />
+    <option name="y" value="62" />
     <option name="width" value="1810" />
-    <option name="height" value="975" />
+    <option name="height" value="945" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -287,7 +276,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588696607627" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588696945696" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_181" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -421,12 +410,12 @@
       <workItem from="1588056839845" duration="2697000" />
       <workItem from="1588076634588" duration="397000" />
       <workItem from="1588607001290" duration="364000" />
-      <workItem from="1588691440288" duration="2932000" />
+      <workItem from="1588691440288" duration="3471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46669000" />
+    <option name="totallyTimeSpent" value="47208000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -438,8 +427,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="519" y="77" width="1448" height="780" extended-state="0" />
-    <editor active="true" />
+    <frame x="25" y="161" width="1448" height="755" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20071943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -449,8 +437,8 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Problems" sideWeight="0.49928057" visible="true" weight="0.32921174" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49932975" weight="0.2021773" />
+      <window_info anchor="bottom" id="Problems" sideWeight="0.49928057" weight="0.32921174" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49932975" visible="true" weight="0.5" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007194" side_tool="true" weight="0.32921174" />
       <window_info anchor="bottom" id="Java Enterprise" order="2" weight="0.32867134" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
@@ -625,8 +613,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mmall.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
